@@ -13,7 +13,7 @@ const HackerRoom = (props) => {
           receiveShadow
           geometry={nodes.Final_lambert1_0.geometry}
           material={materials.lambert1}
-          rotation={[1.8, 0, 0]}
+          rotation={[1.5, 0, 0]}
           scale={0.01}
         />
       </group>
